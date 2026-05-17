@@ -1,0 +1,30 @@
+# Dados brutos (Telegram, YouTube, Elasticsearch)
+data/
+*.csv
+*.json
+*.jsonl
+*.xlsx
+*.parquet
+*.db
+*.sqlite
+
+# Documentos confidenciais / não publicados
+doc_*.md
+doc_*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Cache
+.cache/
