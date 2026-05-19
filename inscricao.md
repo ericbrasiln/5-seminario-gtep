@@ -10,7 +10,7 @@
 
 ## Título
 
-"O escravocrata que a esquerda exalta": negacionismo histórico, discurso de ódio e ataques a Zumbi e aos quilombos no Telegram e no YouTube
+Negacionismo histórico, discurso de ódio e ataques a Zumbi dos Palmares e aos quilombos em ecossistemas digitais de extrema direita
 
 ## Autores
 

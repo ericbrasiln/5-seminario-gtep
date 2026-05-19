@@ -10,7 +10,7 @@ GT Emancipações e Pós-Abolição (GTEP/ANPUH)
 
 ## Proposta de Comunicação em Painel Temático
 
-**Título:** "O escravocrata que a esquerda exalta": negacionismo histórico, discurso de ódio e ataques a Zumbi e aos quilombos no Telegram e no YouTube
+**Título:** Negacionismo histórico, discurso de ódio e ataques a Zumbi dos Palmares e aos quilombos em ecossistemas digitais de extrema direita
 
 **Autores:** Eric Brasil (UNILAB/PPGIHD-UFRRJ) e Jaime Ngola Cativa
 
