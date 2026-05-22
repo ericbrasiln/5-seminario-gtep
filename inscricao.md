@@ -15,7 +15,8 @@ Negacionismo histórico, discurso de ódio e ataques a Zumbi dos Palmares e aos 
 ## Autores
 
 - **Eric Brasil** (UNILAB/PPGIHD-UFRRJ) — profericbrasil@gmail.com
-- **Jaime Ngola Cativa** — [dados pendentes]
+- **Jaime Ngola Cativa** — (PPGIHD-UFRRJ) -
+  jaimengolacativa@gmail.com
 
 ## Modalidade
 
