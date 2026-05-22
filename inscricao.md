@@ -47,7 +47,7 @@ Doutor em História Social pela Universidade Federal Fluminense (UFF). Professor
 
 ### Jaime Ngola Cativa
 
-[Dados pendentes]
+Bacharel em Humanidades e Graduando em História pela Universidade da Integração Internacional da Lusofonia Afro-Brasileira (UNILAB), campus dos Malês. Mestrando pelo Programa de Pós-Graduação Interdisciplinar em Humanidades Digitais da Universidade Federal Rural do Rio de Janeiro (PPGIHD-UFRRJ). Pesquisador junior do Laboratório de Humanidades Digitais da UFBA (LABHDUFBA). Pesquisa história digital, desinformação em ecossistemas digitais e negacionismo histórico, com ênfase em métodos mistos e inteligência artificial aplicada à pesquisa em ciências humanas. E-mail:   jaimengolacativa@gmail.com
 
 ---
 
